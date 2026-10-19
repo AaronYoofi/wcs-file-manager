@@ -1,0 +1,10 @@
+# User data and temporary files
+*.xls
+*.xlsx
+*.xlsm
+*.csv
+atm-tracker-backup-*.json
+.DS_Store
+Thumbs.db
+desktop.ini
+
